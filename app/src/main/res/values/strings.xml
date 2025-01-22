@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Characters</string>
+    <string name="watch_episodes">Watch episodes</string>
+    <string name="no_date">There is no data about the character</string>
+    <string name="error">Error when trying to receive data</string>
+
+
+</resources>
