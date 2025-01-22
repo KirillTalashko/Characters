@@ -3,6 +3,8 @@
     <string name="watch_episodes">Watch episodes</string>
     <string name="no_date">There is no data about the character</string>
     <string name="error">Error when trying to receive data</string>
-
-
+    <string name="max_length">15</string>
+    <string name="min_length">10</string>
+    <string name="corner_radius_play_card">17</string>
+    <string name="read_more">…</string>
 </resources>
